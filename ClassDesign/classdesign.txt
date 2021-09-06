@@ -1,0 +1,1 @@
+Include a pdf document containing the CRC cards and the class design
