@@ -4,9 +4,9 @@ Please go under edit and edit this file as needed for your project
 # Batch - 2.2
 ### Group Leader - IT21008696 - Mr Chamodh Leo (IT21008696)
 ### Member 2 - IT21105302 - Mr Sudul Fernando (IT21105302)
-### Member 3 - 
+### Member 3 - IT21101274 - Mr Ranmina Dolawatta (IT21101274)
 ### Member 4 - 
-### Member 5 - IT21111488 - Miss Nuwani Dilara ( IT21111488)
+### Member 5 - 
 ### Member 6 - 
 
 #### Brief Description of Project - 
