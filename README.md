@@ -1,8 +1,8 @@
 Please go under edit and edit this file as needed for your project
 
-# Project Name - 
-# Batch - 
-### Group Leader - IT20212232 - Mr. Asiri Gamage (IT20212232)
+# Project Name - Online Shopping Mall
+# Batch - 2.2
+### Group Leader - IT21008696 - Mr Chamodh Leo (IT21008696)
 ### Member 2 - 
 ### Member 3 - 
 ### Member 4 - 
